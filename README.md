@@ -1,0 +1,2 @@
+# ShardingJDBC-Durid
+基于shardingjdbc和druid连接池的多数据源实现
