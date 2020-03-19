@@ -1,3 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.gungnirlaevatain.sharding.ShardingDataSourceAutoConfiguration,\
-com.gungnirlaevatain.datasource.druid.DruidDataSourceAutoConfiguration
+com.github.gungnirlaevatain.sharding.ShardingDataSourceAutoConfiguration,\
+com.github.gungnirlaevatain.datasource.druid.DruidDataSourceAutoConfiguration
